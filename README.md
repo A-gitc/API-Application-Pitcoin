@@ -1,1 +1,1 @@
-# API-Application-Pitcoin
+# API-CoinDesk
